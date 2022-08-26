@@ -25,7 +25,9 @@ Set Up:
   - call the class functions
 
  Run script:
+ 
   -In CLI run command npx cypress run -s .\cypress\e2e\Yolo.cy.js -b firefox  [-s => Spec and -b => Browser] or 
-  - Open spec in cypress and run
+ 
+ - Open spec in cypress and run
   
 
