@@ -26,8 +26,7 @@ Set Up:
 
  Run script:
  
-  -In CLI run command npx cypress run -s .\cypress\e2e\Yolo.cy.js -b firefox  [-s => Spec and -b => Browser] or 
- 
- - Open spec in cypress and run
+  - In CLI run command npx cypress run -s .\cypress\e2e\Yolo.cy.js -b firefox  [-s => Spec and -b => Browser] or 
+  - Open spec in cypress and run
   
 
