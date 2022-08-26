@@ -22,7 +22,7 @@ Set Up:
   - Create a test spec in e2e folder "Yolo.cy.js"
   - Import the class in test spec
   - create object for the class
-  - call the class functions
+  - call the class functions [based on the requirement]
 
  Run script:
  
