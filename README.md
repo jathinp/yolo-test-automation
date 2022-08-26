@@ -6,7 +6,7 @@ Pre-requisites:
   - IDE (any IDE which supports, used Visual Studio Code)
   
 Set Up:
-  - Create a new folder for cypress project.
+  - Create a new folder for cypress project
   - Open the folder in VS code
   - Open VS code terminal and run npm init -y [will create a package .json in project folder]
   - Install cypress [npm install cypress]
@@ -16,7 +16,7 @@ Set Up:
   - Create new empty spec [can run the default spec (spec.cy.js) as a test run]
  
  POM Script:
-  - Create a folder "Pages" [any name can be used as folder name] to capture element in different pages.
+  - Create a folder "Pages" [any name can be used as folder name] to capture elements in different pages
   - Create a test json file for game page under above folder "gamespage.js"
   - In json file create a class and add objects , functions and variables [based on the need]
   - Create a test spec in e2e folder "Yolo.cy.js"
